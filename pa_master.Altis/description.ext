@@ -144,6 +144,16 @@ class cfgNotifications
 		duration = 3;
 		priority = 5;
 	};
+	
+	// Mission end 
+	class MissionEnd {
+	    title= "mission end! Photo time!"; 
+		iconPicture= "project.paa";
+        description= " Do not Fire!, throw smokes or place explosives!, listen to your SL and get ready for Group picture";
+		color[] = {1,1,1,1};	// Icon and text color
+	// https://www.tug.org/pracjourn/2007-4/walden/color.pdf
+        duration = 5;
+        priority = 5;
 };
 
 // ============================================================================================
