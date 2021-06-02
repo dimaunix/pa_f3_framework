@@ -64,7 +64,7 @@ f_script_setGroupMarkers = [] execVM "f\groupMarkers\f_setLocalGroupMarkers.sqf"
 // F3 - F3 Mission Conditions Selector
 // Credits: Please see the F3 online manual (http://www.ferstaberinde.com/f3/en/)
 
-f_script_setMissionConditions = [] execVM "f\missionConditions\f_setMissionConditions.sqf";
+//f_script_setMissionConditions = [] execVM "f\missionConditions\f_setMissionConditions.sqf";
 
 // ====================================================================================
 
