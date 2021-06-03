@@ -1,6 +1,9 @@
 # PA framework 2021 Rewrites
 
-Read-
+Authors: orgininally made by ferstaberinde. but with PA specific edits made by blaffer, charlz and deemo
+
+
+
 
 to use either of PA_Master or PA_examplescripts download and add to your missions folder.
 
