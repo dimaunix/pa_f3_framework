@@ -1,6 +1,6 @@
 # PA framework 2021 Rewrites
 
-Authors: orgininally made by ferstaberinde. but with PA specific edits made by blaffer, charlz and deemo
+Authors: orgininally made by ferstaberinde. but with PA specific edits made by Blaffer, Charlz and Deemo
 
 
 
