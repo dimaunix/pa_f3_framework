@@ -20,10 +20,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={14650.813,42.91,16673.646};
-		dir[]={0.041068472,-0.47030693,0.88155031};
-		up[]={0.021886183,0.88250351,0.4698};
-		aside[]={0.9989199,-4.877802e-008,-0.04653598};
+		pos[]={14606.055,40.900932,16763.338};
+		dir[]={0.39052111,-0.38648683,-0.83556831};
+		up[]={0.1636465,0.92229038,-0.35014048};
+		aside[]={-0.9059602,2.7505303e-007,-0.42342076};
 	};
 };
 binarizationWanted=0;
@@ -35,7 +35,6 @@ addons[]=
 	"ace_realisticnames",
 	"A3_Soft_F_Beta_Truck_01",
 	"A3_Soft_F_Exp_Truck_01",
-	"UK3CB_BAF_Vehicles_Servicing",
 	"ace_cargo",
 	"A3_Soft_F_EPC_Truck_03",
 	"A3_Weapons_F_Ammoboxes",
