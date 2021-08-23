@@ -3,7 +3,7 @@
 Authors: orgininally made by ferstaberinde. but with PA specific edits made by Blaffer, Charlz and Deemo
 
 
-
+Be aware currently PA_examplescripts is currently not working and will be fixed soon. 
 
 to use either of PA_Master or PA_examplescripts download and add to your missions folder.
 
